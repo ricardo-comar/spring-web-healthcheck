@@ -1,6 +1,6 @@
 # spring-web-healthcheck
 
-Simple PoC project, created using Spring Boot, with Maven 3, Spring Batch and Actuator. There's also two implementations of health check and metrics.
+Simple PoC project, created using Spring Boot, with Maven 3, Spring Batch and [Actuator](http://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html#production-ready-endpoints). There's also two implementations of health check and metrics.
 
 ### Usage
 - Download the repo
