@@ -7,7 +7,7 @@ Simple PoC project, created using Spring Boot, with Maven 3, Spring Batch and [A
 - Package with `mvn package`
 - And run with `java -jar target/spring-web-healthcheck-0.0.1-SNAPSHOT.jar 
 - Access endpoints "/metrics" and "/health" from localhost:8080
-- A simple test is disabling your local network and calling again each endpoint, to see how it changed. And after restabilish the internet connection, call again to see returning to normal state.
+- A simple test is disabling your local network and calling again each endpoint, to see how it changed. And after establish the internet connection, call again to see returning to normal state.
 
 
 ### How it works
