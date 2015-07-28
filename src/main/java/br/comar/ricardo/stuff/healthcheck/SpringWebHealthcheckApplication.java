@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ImportResource;
 
 @SpringBootApplication
 @EnableAutoConfiguration
-@ImportResource("spring-context.xml")
+@ImportResource("classpath*:spring-context.xml")
 public class SpringWebHealthcheckApplication {
 
     public static void main(String[] args) {
